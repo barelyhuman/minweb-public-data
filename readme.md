@@ -4,7 +4,7 @@ This repository holds the static data used by [minweb.site](https://minweb.site)
 
 ## Add another site
 
-To submit another website to the list, just add it at the end of the `links.json` file.
+To submit another website to the list, just add it at the end of the `data/links.json` file.
 
 ## License
 
