@@ -396,13 +396,15 @@
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Aya&fontSizeTwo=8&color=%23efefef"
   },
   {
-  "title": "The Architecture of Silence",
-  "link": "https://architectureofsilence.com",
-   "category": "personal"
+    "title": "The Architecture of Silence",
+    "link": "https://architectureofsilence.com",
+    "category": "personal",
+    "imageURL": "https://architectureofsilence.com/icon.png"
   },
   {
-  "title": "47nil",
-  "link": "https://47nil.com",
-  "category": "personal"
+    "title": "47nil",
+    "link": "https://47nil.com",
+    "category": "personal",
+    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=47nil&fontSizeTwo=8&color=%23efefef"
   }
 ]
