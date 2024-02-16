@@ -2,6 +2,7 @@
   "name": "minweb-public-data",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
     "sync": "node prepare.js"
   },
@@ -9,7 +10,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@unpic/pixels": "^1.2.1",
+    "@unpic/placeholder": "^0.1.2",
     "axios": "^1.6.5",
+    "p-map": "^7.0.1",
     "unfurl.js": "^6.3.2"
   }
 }

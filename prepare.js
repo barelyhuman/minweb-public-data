@@ -1,6 +1,14 @@
-const fs = require("fs");
-const { unfurl } = require("unfurl.js");
-const axios = require("axios");
+import fs from "fs";
+import { unfurl } from "unfurl.js";
+import axios from "axios";
+import { getDominantColor, rgbColorToCssString } from "@unpic/placeholder";
+import { getPixels } from "@unpic/pixels";
+import pMap from "p-map";
+
+async function getFallbackColor(url) {
+  const { data } = await getPixels(url);
+  return rgbColorToCssString(getDominantColor(data));
+}
 
 function readFile() {
   const data = fs.readFileSync("./data/links.json", "utf8");
@@ -8,19 +16,8 @@ function readFile() {
   return parsedData;
 }
 
-const serialMap = async (collection, mapper) => {
-  let resultCollection = [];
-  await collection.reduce((acc, item) => {
-    return acc
-      .then((_) => mapper(item))
-      .then((result) => {
-        resultCollection.push(result);
-      });
-  }, Promise.resolve());
-  return resultCollection;
-};
-
 async function getLink(item) {
+  console.log("Processing", item.title, item.link)
   const link = item.link;
   const title = item.title;
   const fallbackImage =
@@ -38,7 +35,9 @@ async function getLink(item) {
     }
 
     const valid = await axios
-      .get(imageLink)
+      .get(imageLink, {
+        timeout: 5000,
+      })
       .then((d) => true)
       .catch((d) => {
         return false;
@@ -49,6 +48,7 @@ async function getLink(item) {
     }
 
     item.imageURL = imageLink;
+    item.backgroundColor = await getFallbackColor(imageLink);
     return item;
   } catch (err) {
     console.log({ err });
@@ -59,7 +59,7 @@ async function getLink(item) {
 
 async function prepareLinks() {
   const data = readFile();
-  const collection = await serialMap(data, getLink);
+  const collection = await pMap(data, getLink, { concurrency: 5 });
   fs.writeFileSync("data/links.json", JSON.stringify(collection, null, 2));
 }
 
