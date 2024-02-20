@@ -509,5 +509,15 @@
     "category": "project",
     "imageURL": "https://psykip.vercel.app/og.jpg",
     "backgroundColor": "rgb(219.1907284768212,218.2543046357616,221.27947019867548)"
-  }
+  },
+  {
+    "title": "Mitchell Hashimoto",
+    "link": "https://mitchellh.com",
+    "category": "personal"
+  },
+  {
+    "title": "Uncenter",
+    "link": "https://uncenter.dev",
+    "category": "personal"
+  },
 ]
