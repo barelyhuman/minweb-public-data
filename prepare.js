@@ -17,7 +17,7 @@ function readFile() {
 }
 
 async function getLink(item) {
-  console.log("Processing", item.title, item.link)
+  console.log("Processing", item.title, item.link);
   const link = item.link;
   const title = item.title;
   const fallbackImage =
@@ -59,7 +59,14 @@ async function getLink(item) {
 
 async function prepareLinks() {
   const data = readFile();
-  const collection = await pMap(data, getLink, { concurrency: 5 });
+  const uniqueData = [];
+  data.reduce((acc, item) => {
+    if (acc.has(item.link)) return acc;
+    acc.add(item.link);
+    uniqueData.push(item);
+    return acc;
+  }, new Set());
+  const collection = await pMap(uniqueData, getLink, { concurrency: 5 });
   fs.writeFileSync("data/links.json", JSON.stringify(collection, null, 2));
 }
 
