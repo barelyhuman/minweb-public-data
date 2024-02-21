@@ -530,5 +530,42 @@
     "category": "project",
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Antidote&fontSizeTwo=8&color=%23efefef",
     "backgroundColor": "rgb(18,18,18)"
+  },
+
+  {
+    "title": "Sam King - Studio",
+    "link": "https://samking.studio/",
+    "category": "company"
+  },
+  {
+    "title": "Emmett Shine",
+    "link": "https://www.emmettshine.com",
+    "category": "personal"
+  },
+  {
+    "title": "Jordan Singer",
+    "link": "https://ibuildmyideas.com",
+    "category": "personal"
+  },
+  {
+    "title": "Eike Drescher",
+    "link": "https://www.eikedrescher.com",
+    "category": "personal"
+  },
+  {
+    "title": "Maxime",
+    "link": "https://www.maximelegrelle.com",
+    "category": "personal"
+  },
+  { "title": "Daria", "link": "https://daria.works/", "category": "personal" },
+  {
+    "title": "Alex Widua",
+    "link": "https://alexwidua.com/",
+    "category": "personal"
+  },
+  {
+    "title": "Andy Chung",
+    "link": "https://andychung.me",
+    "category": "personal"
   }
 ]
