@@ -4,11 +4,14 @@ import axios from "axios";
 import { getDominantColor, rgbColorToCssString } from "@unpic/placeholder";
 import { getPixels } from "@unpic/pixels";
 import pMap from "p-map";
+import sizeOf from "image-size";
 
 async function getFallbackColor(url) {
   const { data } = await getPixels(url);
   return rgbColorToCssString(getDominantColor(data));
 }
+
+async function getImageResolution() {}
 
 function readFile() {
   const data = fs.readFileSync("./data/links.json", "utf8");
@@ -34,11 +37,16 @@ async function getLink(item) {
         result.open_graph.images[0].url;
     }
 
+    let imageDimensions = {};
     const valid = await axios
       .get(imageLink, {
         timeout: 5000,
+        responseType: "arraybuffer",
       })
-      .then((d) => true)
+      .then((d) => {
+        imageDimensions = sizeOf(Buffer.from(d.data));
+        return true;
+      })
       .catch((d) => {
         return false;
       });
@@ -47,6 +55,7 @@ async function getLink(item) {
       imageLink = fallbackImage;
     }
 
+    item.dimensions = imageDimensions;
     item.imageURL = imageLink;
     item.backgroundColor = await getFallbackColor(imageLink);
     return item;
@@ -66,7 +75,9 @@ async function prepareLinks() {
     uniqueData.push(item);
     return acc;
   }, new Set());
-  const collection = await pMap(uniqueData, getLink, { concurrency: 5 });
+  const collection = await pMap(uniqueData, getLink, {
+    concurrency: 5,
+  });
   fs.writeFileSync("data/links.json", JSON.stringify(collection, null, 2));
 }
 

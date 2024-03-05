@@ -15,5 +15,8 @@
     "axios": "^1.6.5",
     "p-map": "^7.0.1",
     "unfurl.js": "^6.3.2"
+  },
+  "devDependencies": {
+    "image-size": "^1.1.1"
   }
 }
