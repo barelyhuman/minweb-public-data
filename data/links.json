@@ -36,7 +36,7 @@
     "link": "https://beta.adxy.dev",
     "category": "personal",
     "imageURL": "https://beta.adxy.dev/images/og-banner.jpg",
-    "backgroundColor": "rgb(254.6695652173913,254.68944099378882,254.68447204968945)",
+    "backgroundColor": "rgb(254.52837326607818,254.4968474148802,254.42875157629257)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -108,7 +108,7 @@
     "link": "https://mitul.ca",
     "category": "personal",
     "imageURL": "https://mitul-d0rag4z94-mitulshah.vercel.app/og.png",
-    "backgroundColor": "rgb(0.7467811158798283,0.8079399141630901,0.6255364806866953)",
+    "backgroundColor": "rgb(1.6309278350515464,1.7628865979381443,1.31340206185567)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -132,7 +132,7 @@
     "link": "https://chester.how",
     "category": "personal",
     "imageURL": "https://garden-ctxwoaw5d-chesterhow.vercel.app/og.png",
-    "backgroundColor": "rgb(250,249.99896157840084,249.99584631360332)",
+    "backgroundColor": "rgb(249.96628029504743,249.96628029504743,249.96628029504743)",
     "dimensions": {
       "height": 753,
       "width": 1441,
@@ -143,8 +143,13 @@
     "title": "Michael Andreuzza",
     "link": "https://michaelandreuzza.com",
     "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Michael Andreuzza&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)"
+    "imageURL": "https://pbs.twimg.com/profile_images/1708192441281449985/NLlphRDR_200x200.jpg",
+    "backgroundColor": "rgb(0.906145251396648,0.906145251396648,0.906145251396648)",
+    "dimensions": {
+      "height": 200,
+      "width": 200,
+      "type": "jpg"
+    }
   },
   {
     "title": "Studio Voila",
@@ -159,7 +164,7 @@
     "link": "https://linusrogge.com",
     "category": "personal",
     "imageURL": "https://linusrogge.com/og.png",
-    "backgroundColor": "rgb(255,255,255)",
+    "backgroundColor": "rgb(254.9939024390244,254.9939024390244,254.9939024390244)",
     "dimensions": {
       "height": 588,
       "width": 1200,
@@ -195,7 +200,7 @@
     "link": "https://compoundplanning.com",
     "category": "company",
     "imageURL": "https://compoundplanning.com/images/og/new-home.jpg",
-    "backgroundColor": "rgb(254.05548549810845,253.93694829760403,253.8499369482976)",
+    "backgroundColor": "rgb(254.9379042690815,254.9353169469599,254.9340232858991)",
     "dimensions": {
       "height": 1260,
       "width": 2400,
@@ -207,7 +212,7 @@
     "link": "https://significa.co/projects",
     "category": "company",
     "imageURL": "https://a.storyblok.com/f/198185/2400x1260/6b78225295/projects.png/m/1200x630/",
-    "backgroundColor": "rgb(22.301470588235293,22.879901960784313,22.95098039215686)",
+    "backgroundColor": "rgb(23.073349633251834,23.5721271393643,23.65281173594132)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -219,7 +224,7 @@
     "link": "https://www.julienthibeaut.xyz",
     "category": "personal",
     "imageURL": "https://www.julienthibeaut.xyz/meta.jpg",
-    "backgroundColor": "rgb(170.3252032520325,254.53929539295393,227.89972899728997)",
+    "backgroundColor": "rgb(164.32051282051282,254.57179487179488,216.75641025641025)",
     "dimensions": {
       "height": 290,
       "width": 500,
@@ -327,7 +332,7 @@
     "link": "https://craigmod.com/",
     "category": "personal",
     "imageURL": "https://craigmod.com/images/craigmod-homepage-image.jpg",
-    "backgroundColor": "rgb(102.98480243161094,93.14285714285714,77.16109422492401)",
+    "backgroundColor": "rgb(102.48809523809524,93.375,75.80654761904762)",
     "dimensions": {
       "height": 1067,
       "width": 1600,
@@ -375,7 +380,7 @@
     "link": "https://notes.ghed.in",
     "category": "blog",
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Notes by Rodrigo Ghedin&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18.016194331983804,18.016194331983804,18.016194331983804)",
+    "backgroundColor": "rgb(18,18,18)",
     "dimensions": {
       "height": 627,
       "width": 1200,
@@ -387,7 +392,7 @@
     "link": "https://kimchiii.space",
     "category": "personal",
     "imageURL": "https://kimchiii.space/default-og.png",
-    "backgroundColor": "rgb(254.97469746974699,246.95819581958196,247.96479647964796)",
+    "backgroundColor": "rgb(254.97865168539326,246.97865168539326,247.9808988764045)",
     "dimensions": {
       "height": 1260,
       "width": 2400,
@@ -399,7 +404,7 @@
     "link": "https://www.scottishstoater.com",
     "category": "personal",
     "imageURL": "https://www.scottishstoater.com/static/opengraph-default.jpg",
-    "backgroundColor": "rgb(255,255,254.99795501022496)",
+    "backgroundColor": "rgb(254.99795501022496,254.99488752556238,255)",
     "dimensions": {
       "height": 672,
       "width": 1280,
@@ -423,7 +428,7 @@
     "link": "https://www.davidwilliambaum.com",
     "category": "personal",
     "imageURL": "https://images.prismic.io/dwb23/3e7f8cf2-38a4-4e48-815b-ec359f3ebd0f_dwb.jpg?auto=compress,format",
-    "backgroundColor": "rgb(246.9673469387755,246.9673469387755,246.9673469387755)",
+    "backgroundColor": "rgb(246.93388429752065,246.93388429752065,246.93388429752065)",
     "dimensions": {
       "height": 1024,
       "width": 1440,
@@ -435,7 +440,7 @@
     "link": "https://stephango.com",
     "category": "blog",
     "imageURL": "https://stephango.com/assets/card.png",
-    "backgroundColor": "rgb(34.03119266055046,38.59816513761468,26.56697247706422)",
+    "backgroundColor": "rgb(36.27151051625239,41.347992351816444,28.40152963671128)",
     "dimensions": {
       "height": 600,
       "width": 1200,
@@ -447,7 +452,7 @@
     "link": "https://100r.co",
     "category": "company",
     "imageURL": "https://100r.co/media/services/icon.jpg",
-    "backgroundColor": "rgb(0,0,0)",
+    "backgroundColor": "rgb(0.0034562211981566822,0.0034562211981566822,0.0034562211981566822)",
     "dimensions": {
       "height": 2000,
       "orientation": 1,
@@ -496,7 +501,7 @@
     "link": "https://alexkondov.com",
     "category": "blog",
     "imageURL": "https://alexkondov.com/static/b6eddd8c6ec0677ad78e762842b40ad2/bc8e0/cover.png",
-    "backgroundColor": "rgb(254.7590618336887,254.73987206823028,254.6769722814499)",
+    "backgroundColor": "rgb(254.85699039487727,254.83991462113127,254.77908217716114)",
     "dimensions": {
       "height": 450,
       "width": 800,
@@ -520,7 +525,7 @@
     "link": "https://backend.cafe/",
     "category": "blog",
     "imageURL": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1634415927066%2FIaO_pzvse.png%3Fw%3D800%26h%3D420%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp",
-    "backgroundColor": "rgb(46.13138686131387,72.12554744525548,49.11240875912409)",
+    "backgroundColor": "rgb(71.17176470588235,111.08470588235294,75.6329411764706)",
     "dimensions": {
       "height": 420,
       "width": 800,
@@ -532,7 +537,7 @@
     "link": "https://carlosbecker.com",
     "category": "personal",
     "imageURL": "https://carlosbecker.com/carlos-and-bash.png",
-    "backgroundColor": "rgb(125.50854700854701,99.05128205128206,71.82051282051282)",
+    "backgroundColor": "rgb(195.37883959044368,185.61774744027304,169.60409556313994)",
     "dimensions": {
       "height": 800,
       "width": 1200,
@@ -556,7 +561,7 @@
     "link": "https://tyhopp.com/",
     "category": "blog",
     "imageURL": "https://tyhopp.com/meta/open-graph.jpg",
-    "backgroundColor": "rgb(113.79474940334129,197.6634844868735,222.78997613365155)",
+    "backgroundColor": "rgb(123.41851851851852,198.1462962962963,222.0814814814815)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -592,7 +597,7 @@
     "link": "https://imskanand.vercel.app/",
     "category": "personal",
     "imageURL": "https://i.postimg.cc/gjcBCb9D/og-image.png",
-    "backgroundColor": "rgb(28.471641791044775,38.98805970149254,57.03582089552239)",
+    "backgroundColor": "rgb(46.648414985590776,59.71469740634006,78.83861671469741)",
     "dimensions": {
       "height": 667,
       "width": 1280,
@@ -604,7 +609,7 @@
     "link": "https://udara.io",
     "category": "personal",
     "imageURL": "https://udaraio-shader-og.vercel.app/api/uio?title=Udara+Jay&tag=Index&year=NaN",
-    "backgroundColor": "rgb(254.97736625514403,254.97736625514403,254.97736625514403)",
+    "backgroundColor": "rgb(255,255,255)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -648,7 +653,7 @@
     "link": "https://bedes.qui.gg",
     "category": "personal",
     "imageURL": "https://www.igorbedesqui.com/api/og?text=*Crafting%20web%20experiences*/n*with%20care*.%20*Exploring%20design*,/n*UX*,%20and%20*interactivity*.",
-    "backgroundColor": "rgb(10.09548611111111,10.09548611111111,10.09548611111111)",
+    "backgroundColor": "rgb(10.10086956521739,10.10086956521739,10.10086956521739)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -660,7 +665,7 @@
     "link": "https://liveblocks.io",
     "category": "company",
     "imageURL": "https://liveblocks.io/images/social-images/social-image.png",
-    "backgroundColor": "rgb(2.161634103019538,0.16163410301953818,9.159857904085257)",
+    "backgroundColor": "rgb(2.188539741219963,0.18853974121996303,9.188539741219962)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -708,7 +713,7 @@
     "link": "https://jarocki.me/",
     "category": "personal",
     "imageURL": "https://jarocki.me/api/og?title=Bartosz%20Jarocki&description=A%20passionate%20software%20engineer%20with%20an%20eye%20for%20details%20based%20in%20Wroc%C5%82aw,%20Poland.",
-    "backgroundColor": "rgb(24.049214659685862,24.081675392670157,27.1130890052356)",
+    "backgroundColor": "rgb(24.008316008316008,24.017671517671516,27.03014553014553)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -828,7 +833,7 @@
     "link": "https://sahithyan.dev",
     "category": "personal",
     "imageURL": "https://static-blog-qgtozpoxo-sahithyan.vercel.app/og-images/base.png",
-    "backgroundColor": "rgb(238.90374331550802,238.92299465240643,238.9005347593583)",
+    "backgroundColor": "rgb(238.85423365487674,238.85530546623795,238.84458735262595)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -840,7 +845,7 @@
     "link": "https://psykip.vercel.app",
     "category": "project",
     "imageURL": "https://psykip.vercel.app/og.jpg",
-    "backgroundColor": "rgb(219.17443408788282,218.1664447403462,221.16378162450067)",
+    "backgroundColor": "rgb(219.22853368560106,218.13077939233818,220.9788639365918)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -864,7 +869,7 @@
     "link": "https://uncenter.dev",
     "category": "personal",
     "imageURL": "https://uncenter.dev/1024w.png",
-    "backgroundColor": "rgb(150.55172413793105,159.7528735632184,181.816091954023)",
+    "backgroundColor": "rgb(151.2277777777778,158.61944444444444,179.8388888888889)",
     "dimensions": {
       "height": 1024,
       "width": 1024,
@@ -888,7 +893,7 @@
     "link": "https://samking.studio/",
     "category": "company",
     "imageURL": "https://samking.studio/og-image.png",
-    "backgroundColor": "rgb(255,255,255)",
+    "backgroundColor": "rgb(254.9832285115304,254.9832285115304,254.9832285115304)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -900,7 +905,7 @@
     "link": "https://www.emmettshine.com",
     "category": "personal",
     "imageURL": "https://www.emmettshine.com/og.png",
-    "backgroundColor": "rgb(248.29636048526862,248.29636048526862,246.30849220103985)",
+    "backgroundColor": "rgb(248.08166666666668,248.08166666666668,246.09666666666666)",
     "dimensions": {
       "height": 482,
       "width": 1128,
@@ -960,7 +965,7 @@
     "link": "https://alexwidua.com/",
     "category": "personal",
     "imageURL": "https://alexwidua.com/og.png",
-    "backgroundColor": "rgb(254.9837067209776,254.9837067209776,254.9837067209776)",
+    "backgroundColor": "rgb(255,255,255)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -972,7 +977,7 @@
     "link": "https://andychung.me",
     "category": "personal",
     "imageURL": "http://andychung.me/og-image.jpg",
-    "backgroundColor": "rgb(253.78627145085804,242.33073322932918,228.48829953198128)",
+    "backgroundColor": "rgb(253.7404958677686,242.62644628099173,228.56363636363636)",
     "dimensions": {
       "height": 1260,
       "width": 2400,
@@ -996,7 +1001,7 @@
     "link": "https://floriankiem.com/",
     "category": "personal",
     "imageURL": "https://floriankiem.com/images/opengraph/og-image.jpg",
-    "backgroundColor": "rgb(251.95910020449898,251.95705521472394,251.96114519427402)",
+    "backgroundColor": "rgb(251.94774590163934,251.94467213114754,251.9487704918033)",
     "dimensions": {
       "height": 600,
       "width": 1200,
@@ -1008,7 +1013,7 @@
     "link": "https://nucleoapp.com/",
     "category": "project",
     "imageURL": "https://nucleoapp.com/assets/img/open-graph-home.png",
-    "backgroundColor": "rgb(26.145922746781117,29.122317596566525,30.100858369098713)",
+    "backgroundColor": "rgb(26.74308300395257,29.770750988142293,30.768774703557312)",
     "dimensions": {
       "height": 630,
       "width": 1200,
@@ -1033,6 +1038,6 @@
       "type": "jpg"
     },
     "imageURL": "https://pepicrft.me/images/avatar.jpeg",
-    "backgroundColor": "rgb(31.66596194503171,86.90274841437632,222.83509513742072)"
+    "backgroundColor": "rgb(30.01109057301294,84.63401109057301,218.1109057301294)"
   }
 ]
