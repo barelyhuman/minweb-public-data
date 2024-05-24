@@ -1,1287 +1,1292 @@
 [
-  {
-    "title": "Agustinus Nathaniel",
-    "link": "https://sznm.dev",
-    "category": "personal",
-    "imageURL": "https://og.sznm.dev/api/generate?heading=sozonome&text=https://sznm.dev",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Ilya Mikailov (CodeChips)",
-    "link": "https://codechips.me",
-    "category": "personal",
-    "imageURL": "https://codechips.me/assets/images/im.png",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 506,
-      "width": 1012,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Rasmus Andersson",
-    "link": "https://rsms.me/",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Rasmus Andersson&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {}
-  },
-  {
-    "title": "ADXY (Adarsh Bhadauria)",
-    "link": "https://beta.adxy.dev",
-    "category": "personal",
-    "imageURL": "https://beta.adxy.dev/images/og-banner.jpg",
-    "backgroundColor": "rgb(254.5609756097561,254.52560975609757,254.48536585365855)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "Paco Coursey",
-    "link": "https://paco.me/",
-    "category": "personal",
-    "imageURL": "https://paco.me/twitter-sm.png",
-    "backgroundColor": "rgb(0,0,0)",
-    "dimensions": {
-      "height": 2000,
-      "width": 2000,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Jesse Li",
-    "link": "https://blog.jse.li",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Jesse Li&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Tom Lienard",
-    "link": "https://tom.lnrd.fr",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Tom Lienard&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Carl Barenbrug",
-    "link": "https://carlbarenbrug.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Carl Barenbrug&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Tim Ritter",
-    "link": "https://www.tim-ritter.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Tim Ritter&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {}
-  },
-  {
-    "title": "Mitul Shah",
-    "link": "https://mitul.ca",
-    "category": "personal",
-    "imageURL": "https://mitul-53jk34jhq-mitulshah.vercel.app/og.png",
-    "backgroundColor": "rgb(0.006369426751592357,0.012738853503184714,0)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Billy Sweeney",
-    "link": "https://billysweeney.com",
-    "category": "personal",
-    "imageURL": "https://billysweeney.com/assets/app/sharing-image-2400x2400.png",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 2400,
-      "width": 2400,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Chester How",
-    "link": "https://chester.how",
-    "category": "personal",
-    "imageURL": "https://garden-ctxwoaw5d-chesterhow.vercel.app/og.png",
-    "backgroundColor": "rgb(249.90994764397905,249.917277486911,249.9026178010471)",
-    "dimensions": {
-      "height": 753,
-      "width": 1441,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Michael Andreuzza",
-    "link": "https://michaelandreuzza.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Michael Andreuzza&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {}
-  },
-  {
-    "title": "Studio Voila",
-    "link": "https://studiovoila.com",
-    "category": "company",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Studio Voila&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {}
-  },
-  {
-    "title": "Linus Rogge",
-    "link": "https://linusrogge.com",
-    "category": "personal",
-    "imageURL": "https://linusrogge.com/og.png",
-    "backgroundColor": "rgb(254.99796541200408,254.99796541200408,254.99796541200408)",
-    "dimensions": {
-      "height": 588,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "goods.wtf",
-    "link": "https://goods.wtf",
-    "category": "company",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=goods.wtf&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Emil Kowalski",
-    "link": "https://emilkowal.ski",
-    "category": "personal",
-    "imageURL": "https://new-emilkowalski.vercel.app/opengraph-image.png?96a209ac09de61e0",
-    "backgroundColor": "rgb(253,253,252)",
-    "dimensions": {
-      "height": 675,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Compound Planning",
-    "link": "https://compoundplanning.com",
-    "category": "company",
-    "imageURL": "https://compoundplanning.com/images/og/new-home.jpg",
-    "backgroundColor": "rgb(254.92195767195767,254.91931216931218,254.91798941798942)",
-    "dimensions": {
-      "height": 1260,
-      "width": 2400,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "Significa",
-    "link": "https://significa.co/projects",
-    "category": "company",
-    "imageURL": "https://a.storyblok.com/f/198185/2400x1260/6b78225295/projects.png/m/1200x630/",
-    "backgroundColor": "rgb(22.790281329923275,23.375959079283888,23.40153452685422)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Manuel Moreale (personal)",
-    "link": "https://manuelmoreale.dev/",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Manuel Moreale (personal)&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Manuel Moreale (Blog)",
-    "link": "https://manuelmoreale.com/",
-    "category": "blog",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Manuel Moreale (Blog)&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18.00101317122594,18.00101317122594,18.00101317122594)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Mellow",
-    "link": "https://mellow.dev",
-    "category": "blog",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Mellow&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Jointaste.de",
-    "link": "https://www.jointaste.de/",
-    "category": "company",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Jointaste.de&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Kevin Dukkon",
-    "link": "https://www.kevdu.co/",
-    "category": "personal",
-    "imageURL": "https://framerusercontent.com/assets/nA9D0M96B1XRWsNTolESkPDEF5U.png",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 1260,
-      "width": 2400,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Positive Intelligence",
-    "link": "https://www.positiveintelligence.com/",
-    "category": "company",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Positive Intelligence&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "New Computer",
-    "link": "https://new.computer/",
-    "category": "company",
-    "imageURL": "https://dot-landing-1tnix873j-foobarbaz-inc.vercel.app/opengraph-image.png?c8e49391b4bd4b41",
-    "backgroundColor": "rgb(254.9832285115304,254.9832285115304,254.9832285115304)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "kwon",
-    "link": "https://kwon.nyc/",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=kwon&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Craig Mod",
-    "link": "https://craigmod.com/",
-    "category": "personal",
-    "imageURL": "https://craigmod.com/images/craigmod-homepage-image.jpg",
-    "backgroundColor": "rgb(101.91772151898734,93.03164556962025,76.41455696202532)",
-    "dimensions": {
-      "height": 1067,
-      "width": 1600,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "PJ Onori's blog",
-    "link": "https://pjonori.blog",
-    "category": "blog",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=PJ Onori's blog&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Brian Koberlein",
-    "link": "https://briankoberlein.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Brian Koberlein&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "I Need More Coffee (Sohal Sudheer)",
-    "link": "https://ineedmore.coffee",
-    "category": "blog",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=I Need More Coffee (Sohal Sudheer)&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Notes by Rodrigo Ghedin",
-    "link": "https://notes.ghed.in",
-    "category": "blog",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Notes by Rodrigo Ghedin&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Kunall Banerjee",
-    "link": "https://kimchiii.space",
-    "category": "personal",
-    "imageURL": "https://kimchiii.space/default-og.png",
-    "backgroundColor": "rgb(255,247,247)",
-    "dimensions": {
-      "height": 1260,
-      "width": 2400,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Chris Collins",
-    "link": "https://www.scottishstoater.com",
-    "category": "personal",
-    "imageURL": "https://www.scottishstoater.com/static/opengraph-default.jpg",
-    "backgroundColor": "rgb(254.7801268498943,254.7832980972516,254.78118393234672)",
-    "dimensions": {
-      "height": 660,
-      "width": 1200,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "575 life in haiku",
-    "link": "https://575.life",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=575 life in haiku&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "David William Baum",
-    "link": "https://www.davidwilliambaum.com",
-    "category": "personal",
-    "imageURL": "https://images.prismic.io/dwb23/3e7f8cf2-38a4-4e48-815b-ec359f3ebd0f_dwb.jpg?auto=compress,format",
-    "backgroundColor": "rgb(246.94484167517876,246.94484167517876,246.94484167517876)",
-    "dimensions": {
-      "height": 1024,
-      "width": 1440,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "Steph Ango",
-    "link": "https://stephango.com",
-    "category": "blog",
-    "imageURL": "https://stephango.com/assets/card.png",
-    "backgroundColor": "rgb(20.008849557522122,19.336283185840706,12.944690265486726)",
-    "dimensions": {
-      "height": 600,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Hundred Rabbits",
-    "link": "https://100r.co",
-    "category": "company",
-    "imageURL": "https://100r.co/media/services/icon.jpg",
-    "backgroundColor": "rgb(0.011494252873563218,0.011494252873563218,0.011494252873563218)",
-    "dimensions": {
-      "height": 2000,
-      "orientation": 1,
-      "width": 2000,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "Icyphox",
-    "link": "https://icyphox.sh/",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Icyphox&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Nerdy Pepper",
-    "link": "http://peppe.rs/",
-    "category": "blog",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Nerdy Pepper&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Open Purpose",
-    "link": "https://openpurpose.com",
-    "category": "company",
-    "imageURL": "https://framerusercontent.com/assets/drjUty2QRXhm65vambSQexefAvg.png",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Alex Kondov",
-    "link": "https://alexkondov.com",
-    "category": "blog",
-    "imageURL": "https://alexkondov.com/static/b6eddd8c6ec0677ad78e762842b40ad2/bc8e0/cover.png",
-    "backgroundColor": "rgb(254.85991379310346,254.83189655172413,254.71228448275863)",
-    "dimensions": {
-      "height": 450,
-      "width": 800,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Andy Bell",
-    "link": "https://andy-bell.co.uk",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Andy Bell&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Backend Cafe",
-    "link": "https://backend.cafe/",
-    "category": "blog",
-    "imageURL": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1634415927066%2FIaO_pzvse.png%3Fw%3D800%26h%3D420%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp",
-    "backgroundColor": "rgb(71.24772727272727,111.49318181818182,75.96136363636364)",
-    "dimensions": {
-      "height": 420,
-      "width": 800,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Carlos Becker",
-    "link": "https://carlosbecker.com",
-    "category": "personal",
-    "imageURL": "https://carlosbecker.com/carlos-and-bash.png",
-    "backgroundColor": "rgb(111.64161849710983,88.5606936416185,64.50578034682081)",
-    "dimensions": {
-      "height": 800,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Josh Bleecher Snyder",
-    "link": "https://commaok.xyz",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Josh Bleecher Snyder&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Ty Hopp",
-    "link": "https://tyhopp.com/",
-    "category": "blog",
-    "imageURL": "https://tyhopp.com/meta/open-graph.jpg",
-    "backgroundColor": "rgb(125.59493670886076,198.60759493670886,222.19168173598553)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "FlameyFox",
-    "link": "https://flameyfox.com/",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=FlameyFox&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Omar Aziz",
-    "link": "https://omaraziz.dev/",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Omar Aziz&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Shubham Kumar Anand",
-    "link": "https://imskanand.vercel.app/",
-    "category": "personal",
-    "imageURL": "https://i.postimg.cc/gjcBCb9D/og-image.png",
-    "backgroundColor": "rgb(43.906417112299465,56.74331550802139,75.77540106951872)",
-    "dimensions": {
-      "height": 667,
-      "width": 1280,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Udara",
-    "link": "https://udara.io",
-    "category": "personal",
-    "imageURL": "https://udaraio-shader-og.vercel.app/api/uio?title=Udara+Jay&tag=Index&year=NaN",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Jenna Smith",
-    "link": "https://jjenzz.com",
-    "category": "blog",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Jenna Smith&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Maggie Appleton",
-    "link": "https://maggieappleton.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Maggie Appleton&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {}
-  },
-  {
-    "title": "Robbie Wagner",
-    "link": "https://robbiethewagner.dev",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Robbie Wagner&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Igor Bedesqui",
-    "link": "https://bedes.qui.gg",
-    "category": "personal",
-    "imageURL": "https://www.igorbedesqui.com/api/og?text=*Crafting%20web%20experiences*/n*with%20care*.%20*Exploring%20design*,/n*UX*,%20and%20*interactivity*.",
-    "backgroundColor": "rgb(10.088285229202038,10.088285229202038,10.088285229202038)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "LiveBlocks",
-    "link": "https://liveblocks.io",
-    "category": "company",
-    "imageURL": "https://liveblocks.io/images/social-images/social-image.png",
-    "backgroundColor": "rgb(2.1556350626118066,0.1556350626118068,9.155635062611807)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Are.na",
-    "link": "https://www.are.na",
-    "category": "company",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Are.na&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Dhruv Suthar",
-    "link": "https://dhrv.pw/",
-    "category": "personal",
-    "imageURL": "https://dhrv.pw/opengraph-image.png?63a7222cb0de2734",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 1376,
-      "width": 2400,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Pierluigi Fittipaldi",
-    "link": "https://pierluigifittipaldi.com",
-    "category": "personal",
-    "imageURL": "https://pierluigifittipaldi.com/assets/twitter.png",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 1672,
-      "width": 3200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Bartosz Jarocki",
-    "link": "https://jarocki.me/",
-    "category": "personal",
-    "imageURL": "https://jarocki.me/api/og?title=Bartosz%20Jarocki&description=A%20passionate%20software%20engineer%20with%20an%20eye%20for%20details%20based%20in%20Wroc%C5%82aw,%20Poland.",
-    "backgroundColor": "rgb(24.03907074973601,24.035902851108766,27.034846884899682)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Ben Smith",
-    "link": "https://bensmith.sh",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Ben Smith&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Onur Şuyalçınkaya",
-    "link": "https://onur.dev",
-    "category": "personal",
-    "imageURL": "https://onur.dev/opengraph-image?832b6768ff67a18e",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Ahmed Elsakaan",
-    "link": "https://www.elsakaan.dev",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Ahmed Elsakaan&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {}
-  },
-  {
-    "title": "Dan Vega",
-    "link": "https://www.danvega.dev",
-    "category": "personal",
-    "dimensions": {
-      "height": 1080,
-      "width": 1920,
-      "type": "png"
-    },
-    "imageURL": "https://www.danvega.dev/images/danvega_dev_cover.png",
-    "backgroundColor": "rgb(243.85044642857142,243.92857142857142,243.96875)"
-  },
-  {
-    "title": "Aya",
-    "link": "https://fasaya.id",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Aya&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "The Architecture of Silence",
-    "link": "https://architectureofsilence.com",
-    "category": "personal",
-    "imageURL": "https://architectureofsilence.com/icon.png",
-    "backgroundColor": "rgb(0,0,0)",
-    "dimensions": {
-      "height": 600,
-      "width": 600,
-      "type": "png"
-    }
-  },
-  {
-    "title": "47nil",
-    "link": "https://47nil.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=47nil&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Aarav Sareen",
-    "link": "https://www.aarv.me",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Aarav Sareen&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {}
-  },
-  {
-    "title": "Rune Icons",
-    "link": "https://www.runic.design",
-    "category": "project",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Rune Icons&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Matt Kane",
-    "link": "https://mk.gg",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Matt Kane&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Arnav Gosain",
-    "link": "https://arnavgosain.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Arnav Gosain&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Sahithyan",
-    "link": "https://sahithyan.dev",
-    "category": "personal",
-    "imageURL": "https://static-blog-pqrxsu8r1-sahithyan-kandathasans-projects.vercel.app/og-images/base.png",
-    "backgroundColor": "rgb(226.66981132075472,239.23270440251574,254.11320754716982)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "The Manual",
-    "link": "https://psykip.vercel.app",
-    "category": "project",
-    "imageURL": "https://psykip.vercel.app/og.jpg",
-    "backgroundColor": "rgb(219.46023468057368,218.51629726205996,221.47066492829205)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "Mitchell Hashimoto",
-    "link": "https://mitchellh.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Mitchell Hashimoto&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Uncenter",
-    "link": "https://uncenter.dev",
-    "category": "personal",
-    "imageURL": "https://uncenter.dev/1024w.png",
-    "backgroundColor": "rgb(150.53150684931506,158.04931506849314,179.56438356164384)",
-    "dimensions": {
-      "height": 1024,
-      "width": 1024,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Antidote",
-    "link": "https://getantidote.github.io",
-    "category": "project",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Antidote&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Sam King - Studio",
-    "link": "https://samking.studio/",
-    "category": "company",
-    "imageURL": "https://samking.studio/og-image.png",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Emmett Shine",
-    "link": "https://www.emmettshine.com",
-    "category": "personal",
-    "imageURL": "https://www.emmettshine.com/og.png",
-    "backgroundColor": "rgb(249.24436741767764,249.24436741767764,247.25129982668977)",
-    "dimensions": {
-      "height": 482,
-      "width": 1128,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Jordan Singer",
-    "link": "https://ibuildmyideas.com",
-    "category": "personal",
-    "imageURL": "https://ibuildmyideas.com/images/og.png",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Eike Drescher",
-    "link": "https://www.eikedrescher.com",
-    "category": "personal",
-    "imageURL": "https://assets-global.website-files.com/5ea094d69feadb4133a3d1dd/62c882c91bd87be8b91b4553_OpenGraphHomeNew.png",
-    "backgroundColor": "rgb(251,251,251)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Maxime",
-    "link": "https://www.maximelegrelle.com",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Maxime&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Daria",
-    "link": "https://daria.works/",
-    "category": "personal",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Daria&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Alex Widua",
-    "link": "https://alexwidua.com/",
-    "category": "personal",
-    "imageURL": "https://alexwidua.com/og.png",
-    "backgroundColor": "rgb(255,255,255)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Andy Chung",
-    "link": "https://andychung.me",
-    "category": "personal",
-    "imageURL": "https://res.cloudinary.com/read-cv/image/upload/v1/1/siteBuilder/DxlZwGtHZsQ72Hf089rHJYaVKd12/og-image-1714270672153.png?_a=DATAdtfiZAA0",
-    "backgroundColor": "rgb(254.60096153846155,242.35416666666666,228.3653846153846)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Product DevBook",
-    "link": "https://productdevbook.com/",
-    "category": "project",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Product DevBook&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Florian Kiem",
-    "link": "https://floriankiem.com/",
-    "category": "personal",
-    "imageURL": "https://floriankiem.com/images/opengraph/og-image.jpg",
-    "backgroundColor": "rgb(251.9360824742268,251.9340206185567,251.940206185567)",
-    "dimensions": {
-      "height": 600,
-      "width": 1200,
-      "type": "jpg"
-    }
-  },
-  {
-    "title": "Nucleo App",
-    "link": "https://nucleoapp.com/",
-    "category": "project",
-    "imageURL": "https://nucleoapp.com/assets/img/open-graph-home.png",
-    "backgroundColor": "rgb(25.913669064748202,28.88968824940048,29.86570743405276)",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    }
-  },
-  {
-    "title": "Dimer App",
-    "link": "https://dimerapp.com/",
-    "category": "project",
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Dimer App&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
-    "dimensions": {}
-  },
-  {
-    "title": "PEDRO PIÑERA",
-    "link": "https://pepicrft.me/",
-    "category": "personal",
-    "dimensions": {
-      "height": 400,
-      "width": 400,
-      "type": "jpg"
-    },
-    "imageURL": "https://pepicrft.me/images/avatar.jpeg",
-    "backgroundColor": "rgb(30.451957295373667,84.80249110320284,217.65658362989325)"
-  },
-  {
-    "title": "XiNiHa",
-    "link": "https://xiniha.dev",
-    "category": "personal",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=XiNiHa&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)"
-  },
-  {
-    "title": "Jhey Tompkins",
-    "link": "https://jhey.dev/",
-    "category": "personal",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://jhey.netlify.app/og?title=The%20feed%20of%20Jhey%20Tompkins&gradient=8",
-    "backgroundColor": "rgb(38.161458333333336,38.046875,38.0078125)"
-  },
-  {
-    "title": "Theodore Vorillas",
-    "link": "https://www.vorillaz.com/",
-    "category": "personal",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://www.vorillaz.com/og.png?title=Welcome&description=",
-    "backgroundColor": "rgb(242.72994652406416,238.19251336898395,233.3181818181818)"
-  },
-  {
-    "title": "Micah Cantor",
-    "link": "https://www.micahcantor.com/",
-    "category": "personal",
-    "dimensions": {
-      "height": 720,
-      "width": 1280,
-      "type": "png"
-    },
-    "imageURL": "https://micahcantor.com/images/thumbnail.png",
-    "backgroundColor": "rgb(0.05131004366812227,0.055676855895196505,0.055676855895196505)"
-  },
-  {
-    "title": "David Darnes",
-    "link": "https://darn.es",
-    "category": "personal",
-    "dimensions": {
-      "height": 360,
-      "width": 360,
-      "type": "jpg"
-    },
-    "imageURL": "https://hub.darn.es/content/images/2022/02/dave-penfold.jpg",
-    "backgroundColor": "rgb(210.26626016260164,198.14227642276424,196.4959349593496)"
-  },
-  {
-    "title": "Jordi Enric",
-    "link": "https://www.jordienric.com/",
-    "category": "personal",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Jordi Enric&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)"
-  },
-  {
-    "title": "Julien Thibeaut",
-    "link": "http://ibelick.com",
-    "category": "personal",
-    "dimensions": {
-      "height": 290,
-      "width": 500,
-      "type": "jpg"
-    },
-    "imageURL": "https://www.ibelick.com/meta.jpg",
-    "backgroundColor": "rgb(161.70603015075378,254.5603015075377,214.29145728643215)"
-  },
-  {
-    "title": "Tools for Humanity",
-    "link": "https://www.toolsforhumanity.com",
-    "category": "company",
-    "dimensions": {
-      "height": 2016,
-      "width": 3840,
-      "type": "png"
-    },
-    "imageURL": "https://images.prismic.io/worldcoin-company-website/16c115ee-cc9b-461c-b91a-b73ac33f8e71_TFH-META-Image-Main%402x.png",
-    "backgroundColor": "rgb(232.9987468671679,236.2406015037594,240.81453634085213)"
-  },
-  {
-    "title": "Rafał Pastuszak",
-    "link": "https://sonnet.io/",
-    "category": "personal",
-    "dimensions": {
-      "height": 400,
-      "width": 400,
-      "type": "jpg"
-    },
-    "imageURL": "https://sonnet.io/images/me.jpg",
-    "backgroundColor": "rgb(66.18211920529801,66.06622516556291,58.48344370860927)"
-  },
-  {
-    "title": "Robin Rendle",
-    "link": "https://robinrendle.com/",
-    "category": "personal",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Robin Rendle&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)"
-  },
-  {
-    "title": "Andy",
-    "link": "https://andybitz.io",
-    "category": "personal",
-    "dimensions": {
-      "height": 1024,
-      "width": 1024,
-      "type": "png"
-    },
-    "imageURL": "https://andybitz.io/og.png",
-    "backgroundColor": "rgb(255,255,255)"
-  },
-  {
-    "title": "Ansub Khan",
-    "link": "https://ansubkhan.com/",
-    "category": "personal",
-    "dimensions": {
-      "height": 1080,
-      "width": 1920,
-      "type": "png"
-    },
-    "imageURL": "https://ansubkhan.com/opengraph-image.png?289c062fcf0b7277",
-    "backgroundColor": "rgb(255,255,255)"
-  },
-  {
-    "title": "Kevin Chin",
-    "link": "https://kevch.in/",
-    "category": "personal",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Kevin Chin&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)"
-  },
-  {
-    "title": "Morten",
-    "link": "https://morten.dev",
-    "category": "personal",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Morten&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)"
-  },
-  {
-    "title": "Anton",
-    "link": "https://antonz.org",
-    "category": "personal",
-    "dimensions": {
-      "height": 1024,
-      "width": 1024,
-      "type": "png"
-    },
-    "imageURL": "https://antonz.org/assets/logo.png",
-    "backgroundColor": "rgb(0,0,0)"
-  },
-  {
-    "title": "ui.land",
-    "link": "http://ui.land",
-    "category": "project",
-    "dimensions": {},
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=ui.land&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)"
-  },
-  {
-    "title": "Alasdair Monk",
-    "link": "https://www.alasdairmonk.com/",
-    "category": "personal",
-    "dimensions": {
-      "height": 627,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Alasdair Monk&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)"
-  },
-  {
-    "title": "Wojtek Witkowski",
-    "link": "https://wojtek.im/",
-    "category": "personal",
-    "dimensions": {
-      "height": 628,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://wojtek.im/opengraph-image.png?c017644e10f568e2",
-    "backgroundColor": "rgb(0.1577639751552795,1.31055900621118,0.8608695652173913)"
-  },
-  {
-    "title": "Glenn Hitchcock",
-    "link": "https://glenn.me/",
-    "category": "personal",
-    "dimensions": {
-      "height": 630,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://framerusercontent.com/assets/zQMOZiED2zhUICygd2PL4Tghx8.png",
-    "backgroundColor": "rgb(255,255,255)"
-  },
-  {
-    "title": "Joe Bell",
-    "link": "https://joebell.studio",
-    "category": "personal",
-    "dimensions": {
-      "height": 628,
-      "width": 1200,
-      "type": "png"
-    },
-    "imageURL": "https://joebell.studio/og",
-    "backgroundColor": "rgb(254.6347687400319,254.76076555023923,254.8676236044657)"
-  },
-  {
-    "title": "Hugo Richard",
-    "link": "https://www.hrcd.fr",
-    "category": "personal",
-    "dimensions": {
-      "height": 882,
-      "width": 1680,
-      "type": "jpg"
-    },
-    "imageURL": "https://www.hrcd.fr/social-preview.jpg",
-    "backgroundColor": "rgb(4.678294573643411,4.51937984496124,4.7661498708010335)"
-  }
+	{
+		"title": "Agustinus Nathaniel",
+		"link": "https://sznm.dev",
+		"category": "personal",
+		"imageURL": "https://og.sznm.dev/api/generate?heading=sozonome&text=https://sznm.dev",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Ilya Mikailov (CodeChips)",
+		"link": "https://codechips.me",
+		"category": "personal",
+		"imageURL": "https://codechips.me/assets/images/im.png",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 506,
+			"width": 1012,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Rasmus Andersson",
+		"link": "https://rsms.me/",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Rasmus Andersson&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {}
+	},
+	{
+		"title": "ADXY (Adarsh Bhadauria)",
+		"link": "https://beta.adxy.dev",
+		"category": "personal",
+		"imageURL": "https://beta.adxy.dev/images/og-banner.jpg",
+		"backgroundColor": "rgb(254.5609756097561,254.52560975609757,254.48536585365855)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "Paco Coursey",
+		"link": "https://paco.me/",
+		"category": "personal",
+		"imageURL": "https://paco.me/twitter-sm.png",
+		"backgroundColor": "rgb(0,0,0)",
+		"dimensions": {
+			"height": 2000,
+			"width": 2000,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Jesse Li",
+		"link": "https://blog.jse.li",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Jesse Li&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Tom Lienard",
+		"link": "https://tom.lnrd.fr",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Tom Lienard&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Carl Barenbrug",
+		"link": "https://carlbarenbrug.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Carl Barenbrug&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Tim Ritter",
+		"link": "https://www.tim-ritter.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Tim Ritter&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {}
+	},
+	{
+		"title": "Mitul Shah",
+		"link": "https://mitul.ca",
+		"category": "personal",
+		"imageURL": "https://mitul-53jk34jhq-mitulshah.vercel.app/og.png",
+		"backgroundColor": "rgb(0.006369426751592357,0.012738853503184714,0)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Billy Sweeney",
+		"link": "https://billysweeney.com",
+		"category": "personal",
+		"imageURL": "https://billysweeney.com/assets/app/sharing-image-2400x2400.png",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 2400,
+			"width": 2400,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Chester How",
+		"link": "https://chester.how",
+		"category": "personal",
+		"imageURL": "https://garden-ctxwoaw5d-chesterhow.vercel.app/og.png",
+		"backgroundColor": "rgb(249.90994764397905,249.917277486911,249.9026178010471)",
+		"dimensions": {
+			"height": 753,
+			"width": 1441,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Michael Andreuzza",
+		"link": "https://michaelandreuzza.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Michael Andreuzza&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {}
+	},
+	{
+		"title": "Studio Voila",
+		"link": "https://studiovoila.com",
+		"category": "company",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Studio Voila&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {}
+	},
+	{
+		"title": "Linus Rogge",
+		"link": "https://linusrogge.com",
+		"category": "personal",
+		"imageURL": "https://linusrogge.com/og.png",
+		"backgroundColor": "rgb(254.99796541200408,254.99796541200408,254.99796541200408)",
+		"dimensions": {
+			"height": 588,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "goods.wtf",
+		"link": "https://goods.wtf",
+		"category": "company",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=goods.wtf&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Emil Kowalski",
+		"link": "https://emilkowal.ski",
+		"category": "personal",
+		"imageURL": "https://new-emilkowalski.vercel.app/opengraph-image.png?96a209ac09de61e0",
+		"backgroundColor": "rgb(253,253,252)",
+		"dimensions": {
+			"height": 675,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Compound Planning",
+		"link": "https://compoundplanning.com",
+		"category": "company",
+		"imageURL": "https://compoundplanning.com/images/og/new-home.jpg",
+		"backgroundColor": "rgb(254.92195767195767,254.91931216931218,254.91798941798942)",
+		"dimensions": {
+			"height": 1260,
+			"width": 2400,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "Significa",
+		"link": "https://significa.co/projects",
+		"category": "company",
+		"imageURL": "https://a.storyblok.com/f/198185/2400x1260/6b78225295/projects.png/m/1200x630/",
+		"backgroundColor": "rgb(22.790281329923275,23.375959079283888,23.40153452685422)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Manuel Moreale (personal)",
+		"link": "https://manuelmoreale.dev/",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Manuel Moreale (personal)&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Manuel Moreale (Blog)",
+		"link": "https://manuelmoreale.com/",
+		"category": "blog",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Manuel Moreale (Blog)&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18.00101317122594,18.00101317122594,18.00101317122594)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Mellow",
+		"link": "https://mellow.dev",
+		"category": "blog",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Mellow&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Jointaste.de",
+		"link": "https://www.jointaste.de/",
+		"category": "company",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Jointaste.de&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Kevin Dukkon",
+		"link": "https://www.kevdu.co/",
+		"category": "personal",
+		"imageURL": "https://framerusercontent.com/assets/nA9D0M96B1XRWsNTolESkPDEF5U.png",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 1260,
+			"width": 2400,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Positive Intelligence",
+		"link": "https://www.positiveintelligence.com/",
+		"category": "company",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Positive Intelligence&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "New Computer",
+		"link": "https://new.computer/",
+		"category": "company",
+		"imageURL": "https://dot-landing-1tnix873j-foobarbaz-inc.vercel.app/opengraph-image.png?c8e49391b4bd4b41",
+		"backgroundColor": "rgb(254.9832285115304,254.9832285115304,254.9832285115304)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "kwon",
+		"link": "https://kwon.nyc/",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=kwon&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Craig Mod",
+		"link": "https://craigmod.com/",
+		"category": "personal",
+		"imageURL": "https://craigmod.com/images/craigmod-homepage-image.jpg",
+		"backgroundColor": "rgb(101.91772151898734,93.03164556962025,76.41455696202532)",
+		"dimensions": {
+			"height": 1067,
+			"width": 1600,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "PJ Onori's blog",
+		"link": "https://pjonori.blog",
+		"category": "blog",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=PJ Onori's blog&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Brian Koberlein",
+		"link": "https://briankoberlein.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Brian Koberlein&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "I Need More Coffee (Sohal Sudheer)",
+		"link": "https://ineedmore.coffee",
+		"category": "blog",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=I Need More Coffee (Sohal Sudheer)&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Notes by Rodrigo Ghedin",
+		"link": "https://notes.ghed.in",
+		"category": "blog",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Notes by Rodrigo Ghedin&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Kunall Banerjee",
+		"link": "https://kimchiii.space",
+		"category": "personal",
+		"imageURL": "https://kimchiii.space/default-og.png",
+		"backgroundColor": "rgb(255,247,247)",
+		"dimensions": {
+			"height": 1260,
+			"width": 2400,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Chris Collins",
+		"link": "https://www.scottishstoater.com",
+		"category": "personal",
+		"imageURL": "https://www.scottishstoater.com/static/opengraph-default.jpg",
+		"backgroundColor": "rgb(254.7801268498943,254.7832980972516,254.78118393234672)",
+		"dimensions": {
+			"height": 660,
+			"width": 1200,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "575 life in haiku",
+		"link": "https://575.life",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=575 life in haiku&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "David William Baum",
+		"link": "https://www.davidwilliambaum.com",
+		"category": "personal",
+		"imageURL": "https://images.prismic.io/dwb23/3e7f8cf2-38a4-4e48-815b-ec359f3ebd0f_dwb.jpg?auto=compress,format",
+		"backgroundColor": "rgb(246.94484167517876,246.94484167517876,246.94484167517876)",
+		"dimensions": {
+			"height": 1024,
+			"width": 1440,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "Steph Ango",
+		"link": "https://stephango.com",
+		"category": "blog",
+		"imageURL": "https://stephango.com/assets/card.png",
+		"backgroundColor": "rgb(20.008849557522122,19.336283185840706,12.944690265486726)",
+		"dimensions": {
+			"height": 600,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Hundred Rabbits",
+		"link": "https://100r.co",
+		"category": "company",
+		"imageURL": "https://100r.co/media/services/icon.jpg",
+		"backgroundColor": "rgb(0.011494252873563218,0.011494252873563218,0.011494252873563218)",
+		"dimensions": {
+			"height": 2000,
+			"orientation": 1,
+			"width": 2000,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "Icyphox",
+		"link": "https://icyphox.sh/",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Icyphox&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Nerdy Pepper",
+		"link": "http://peppe.rs/",
+		"category": "blog",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Nerdy Pepper&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Open Purpose",
+		"link": "https://openpurpose.com",
+		"category": "company",
+		"imageURL": "https://framerusercontent.com/assets/drjUty2QRXhm65vambSQexefAvg.png",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Alex Kondov",
+		"link": "https://alexkondov.com",
+		"category": "blog",
+		"imageURL": "https://alexkondov.com/static/b6eddd8c6ec0677ad78e762842b40ad2/bc8e0/cover.png",
+		"backgroundColor": "rgb(254.85991379310346,254.83189655172413,254.71228448275863)",
+		"dimensions": {
+			"height": 450,
+			"width": 800,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Andy Bell",
+		"link": "https://andy-bell.co.uk",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Andy Bell&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Backend Cafe",
+		"link": "https://backend.cafe/",
+		"category": "blog",
+		"imageURL": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1634415927066%2FIaO_pzvse.png%3Fw%3D800%26h%3D420%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp",
+		"backgroundColor": "rgb(71.24772727272727,111.49318181818182,75.96136363636364)",
+		"dimensions": {
+			"height": 420,
+			"width": 800,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Carlos Becker",
+		"link": "https://carlosbecker.com",
+		"category": "personal",
+		"imageURL": "https://carlosbecker.com/carlos-and-bash.png",
+		"backgroundColor": "rgb(111.64161849710983,88.5606936416185,64.50578034682081)",
+		"dimensions": {
+			"height": 800,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Josh Bleecher Snyder",
+		"link": "https://commaok.xyz",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Josh Bleecher Snyder&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Ty Hopp",
+		"link": "https://tyhopp.com/",
+		"category": "blog",
+		"imageURL": "https://tyhopp.com/meta/open-graph.jpg",
+		"backgroundColor": "rgb(125.59493670886076,198.60759493670886,222.19168173598553)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "FlameyFox",
+		"link": "https://flameyfox.com/",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=FlameyFox&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Omar Aziz",
+		"link": "https://omaraziz.dev/",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Omar Aziz&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Shubham Kumar Anand",
+		"link": "https://imskanand.vercel.app/",
+		"category": "personal",
+		"imageURL": "https://i.postimg.cc/gjcBCb9D/og-image.png",
+		"backgroundColor": "rgb(43.906417112299465,56.74331550802139,75.77540106951872)",
+		"dimensions": {
+			"height": 667,
+			"width": 1280,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Udara",
+		"link": "https://udara.io",
+		"category": "personal",
+		"imageURL": "https://udaraio-shader-og.vercel.app/api/uio?title=Udara+Jay&tag=Index&year=NaN",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Jenna Smith",
+		"link": "https://jjenzz.com",
+		"category": "blog",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Jenna Smith&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Maggie Appleton",
+		"link": "https://maggieappleton.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Maggie Appleton&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {}
+	},
+	{
+		"title": "Robbie Wagner",
+		"link": "https://robbiethewagner.dev",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Robbie Wagner&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Igor Bedesqui",
+		"link": "https://bedes.qui.gg",
+		"category": "personal",
+		"imageURL": "https://www.igorbedesqui.com/api/og?text=*Crafting%20web%20experiences*/n*with%20care*.%20*Exploring%20design*,/n*UX*,%20and%20*interactivity*.",
+		"backgroundColor": "rgb(10.088285229202038,10.088285229202038,10.088285229202038)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "LiveBlocks",
+		"link": "https://liveblocks.io",
+		"category": "company",
+		"imageURL": "https://liveblocks.io/images/social-images/social-image.png",
+		"backgroundColor": "rgb(2.1556350626118066,0.1556350626118068,9.155635062611807)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Are.na",
+		"link": "https://www.are.na",
+		"category": "company",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Are.na&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Dhruv Suthar",
+		"link": "https://dhrv.pw/",
+		"category": "personal",
+		"imageURL": "https://dhrv.pw/opengraph-image.png?63a7222cb0de2734",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 1376,
+			"width": 2400,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Pierluigi Fittipaldi",
+		"link": "https://pierluigifittipaldi.com",
+		"category": "personal",
+		"imageURL": "https://pierluigifittipaldi.com/assets/twitter.png",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 1672,
+			"width": 3200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Bartosz Jarocki",
+		"link": "https://jarocki.me/",
+		"category": "personal",
+		"imageURL": "https://jarocki.me/api/og?title=Bartosz%20Jarocki&description=A%20passionate%20software%20engineer%20with%20an%20eye%20for%20details%20based%20in%20Wroc%C5%82aw,%20Poland.",
+		"backgroundColor": "rgb(24.03907074973601,24.035902851108766,27.034846884899682)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Ben Smith",
+		"link": "https://bensmith.sh",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Ben Smith&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Onur Şuyalçınkaya",
+		"link": "https://onur.dev",
+		"category": "personal",
+		"imageURL": "https://onur.dev/opengraph-image?832b6768ff67a18e",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Ahmed Elsakaan",
+		"link": "https://www.elsakaan.dev",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Ahmed Elsakaan&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {}
+	},
+	{
+		"title": "Dan Vega",
+		"link": "https://www.danvega.dev",
+		"category": "personal",
+		"dimensions": {
+			"height": 1080,
+			"width": 1920,
+			"type": "png"
+		},
+		"imageURL": "https://www.danvega.dev/images/danvega_dev_cover.png",
+		"backgroundColor": "rgb(243.85044642857142,243.92857142857142,243.96875)"
+	},
+	{
+		"title": "Aya",
+		"link": "https://fasaya.id",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Aya&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "The Architecture of Silence",
+		"link": "https://architectureofsilence.com",
+		"category": "personal",
+		"imageURL": "https://architectureofsilence.com/icon.png",
+		"backgroundColor": "rgb(0,0,0)",
+		"dimensions": {
+			"height": 600,
+			"width": 600,
+			"type": "png"
+		}
+	},
+	{
+		"title": "47nil",
+		"link": "https://47nil.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=47nil&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Aarav Sareen",
+		"link": "https://www.aarv.me",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Aarav Sareen&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {}
+	},
+	{
+		"title": "Rune Icons",
+		"link": "https://www.runic.design",
+		"category": "project",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Rune Icons&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Matt Kane",
+		"link": "https://mk.gg",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Matt Kane&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Arnav Gosain",
+		"link": "https://arnavgosain.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Arnav Gosain&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Sahithyan",
+		"link": "https://sahithyan.dev",
+		"category": "personal",
+		"imageURL": "https://static-blog-pqrxsu8r1-sahithyan-kandathasans-projects.vercel.app/og-images/base.png",
+		"backgroundColor": "rgb(226.66981132075472,239.23270440251574,254.11320754716982)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "The Manual",
+		"link": "https://psykip.vercel.app",
+		"category": "project",
+		"imageURL": "https://psykip.vercel.app/og.jpg",
+		"backgroundColor": "rgb(219.46023468057368,218.51629726205996,221.47066492829205)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "Mitchell Hashimoto",
+		"link": "https://mitchellh.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Mitchell Hashimoto&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Uncenter",
+		"link": "https://uncenter.dev",
+		"category": "personal",
+		"imageURL": "https://uncenter.dev/1024w.png",
+		"backgroundColor": "rgb(150.53150684931506,158.04931506849314,179.56438356164384)",
+		"dimensions": {
+			"height": 1024,
+			"width": 1024,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Antidote",
+		"link": "https://getantidote.github.io",
+		"category": "project",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Antidote&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Sam King - Studio",
+		"link": "https://samking.studio/",
+		"category": "company",
+		"imageURL": "https://samking.studio/og-image.png",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Emmett Shine",
+		"link": "https://www.emmettshine.com",
+		"category": "personal",
+		"imageURL": "https://www.emmettshine.com/og.png",
+		"backgroundColor": "rgb(249.24436741767764,249.24436741767764,247.25129982668977)",
+		"dimensions": {
+			"height": 482,
+			"width": 1128,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Jordan Singer",
+		"link": "https://ibuildmyideas.com",
+		"category": "personal",
+		"imageURL": "https://ibuildmyideas.com/images/og.png",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Eike Drescher",
+		"link": "https://www.eikedrescher.com",
+		"category": "personal",
+		"imageURL": "https://assets-global.website-files.com/5ea094d69feadb4133a3d1dd/62c882c91bd87be8b91b4553_OpenGraphHomeNew.png",
+		"backgroundColor": "rgb(251,251,251)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Maxime",
+		"link": "https://www.maximelegrelle.com",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Maxime&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Daria",
+		"link": "https://daria.works/",
+		"category": "personal",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Daria&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Alex Widua",
+		"link": "https://alexwidua.com/",
+		"category": "personal",
+		"imageURL": "https://alexwidua.com/og.png",
+		"backgroundColor": "rgb(255,255,255)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Andy Chung",
+		"link": "https://andychung.me",
+		"category": "personal",
+		"imageURL": "https://res.cloudinary.com/read-cv/image/upload/v1/1/siteBuilder/DxlZwGtHZsQ72Hf089rHJYaVKd12/og-image-1714270672153.png?_a=DATAdtfiZAA0",
+		"backgroundColor": "rgb(254.60096153846155,242.35416666666666,228.3653846153846)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Product DevBook",
+		"link": "https://productdevbook.com/",
+		"category": "project",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Product DevBook&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Florian Kiem",
+		"link": "https://floriankiem.com/",
+		"category": "personal",
+		"imageURL": "https://floriankiem.com/images/opengraph/og-image.jpg",
+		"backgroundColor": "rgb(251.9360824742268,251.9340206185567,251.940206185567)",
+		"dimensions": {
+			"height": 600,
+			"width": 1200,
+			"type": "jpg"
+		}
+	},
+	{
+		"title": "Nucleo App",
+		"link": "https://nucleoapp.com/",
+		"category": "project",
+		"imageURL": "https://nucleoapp.com/assets/img/open-graph-home.png",
+		"backgroundColor": "rgb(25.913669064748202,28.88968824940048,29.86570743405276)",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		}
+	},
+	{
+		"title": "Dimer App",
+		"link": "https://dimerapp.com/",
+		"category": "project",
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Dimer App&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)",
+		"dimensions": {}
+	},
+	{
+		"title": "PEDRO PIÑERA",
+		"link": "https://pepicrft.me/",
+		"category": "personal",
+		"dimensions": {
+			"height": 400,
+			"width": 400,
+			"type": "jpg"
+		},
+		"imageURL": "https://pepicrft.me/images/avatar.jpeg",
+		"backgroundColor": "rgb(30.451957295373667,84.80249110320284,217.65658362989325)"
+	},
+	{
+		"title": "XiNiHa",
+		"link": "https://xiniha.dev",
+		"category": "personal",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=XiNiHa&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)"
+	},
+	{
+		"title": "Jhey Tompkins",
+		"link": "https://jhey.dev/",
+		"category": "personal",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://jhey.netlify.app/og?title=The%20feed%20of%20Jhey%20Tompkins&gradient=8",
+		"backgroundColor": "rgb(38.161458333333336,38.046875,38.0078125)"
+	},
+	{
+		"title": "Theodore Vorillas",
+		"link": "https://www.vorillaz.com/",
+		"category": "personal",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://www.vorillaz.com/og.png?title=Welcome&description=",
+		"backgroundColor": "rgb(242.72994652406416,238.19251336898395,233.3181818181818)"
+	},
+	{
+		"title": "Micah Cantor",
+		"link": "https://www.micahcantor.com/",
+		"category": "personal",
+		"dimensions": {
+			"height": 720,
+			"width": 1280,
+			"type": "png"
+		},
+		"imageURL": "https://micahcantor.com/images/thumbnail.png",
+		"backgroundColor": "rgb(0.05131004366812227,0.055676855895196505,0.055676855895196505)"
+	},
+	{
+		"title": "David Darnes",
+		"link": "https://darn.es",
+		"category": "personal",
+		"dimensions": {
+			"height": 360,
+			"width": 360,
+			"type": "jpg"
+		},
+		"imageURL": "https://hub.darn.es/content/images/2022/02/dave-penfold.jpg",
+		"backgroundColor": "rgb(210.26626016260164,198.14227642276424,196.4959349593496)"
+	},
+	{
+		"title": "Jordi Enric",
+		"link": "https://www.jordienric.com/",
+		"category": "personal",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Jordi Enric&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)"
+	},
+	{
+		"title": "Julien Thibeaut",
+		"link": "http://ibelick.com",
+		"category": "personal",
+		"dimensions": {
+			"height": 290,
+			"width": 500,
+			"type": "jpg"
+		},
+		"imageURL": "https://www.ibelick.com/meta.jpg",
+		"backgroundColor": "rgb(161.70603015075378,254.5603015075377,214.29145728643215)"
+	},
+	{
+		"title": "Tools for Humanity",
+		"link": "https://www.toolsforhumanity.com",
+		"category": "company",
+		"dimensions": {
+			"height": 2016,
+			"width": 3840,
+			"type": "png"
+		},
+		"imageURL": "https://images.prismic.io/worldcoin-company-website/16c115ee-cc9b-461c-b91a-b73ac33f8e71_TFH-META-Image-Main%402x.png",
+		"backgroundColor": "rgb(232.9987468671679,236.2406015037594,240.81453634085213)"
+	},
+	{
+		"title": "Rafał Pastuszak",
+		"link": "https://sonnet.io/",
+		"category": "personal",
+		"dimensions": {
+			"height": 400,
+			"width": 400,
+			"type": "jpg"
+		},
+		"imageURL": "https://sonnet.io/images/me.jpg",
+		"backgroundColor": "rgb(66.18211920529801,66.06622516556291,58.48344370860927)"
+	},
+	{
+		"title": "Robin Rendle",
+		"link": "https://robinrendle.com/",
+		"category": "personal",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Robin Rendle&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)"
+	},
+	{
+		"title": "Andy",
+		"link": "https://andybitz.io",
+		"category": "personal",
+		"dimensions": {
+			"height": 1024,
+			"width": 1024,
+			"type": "png"
+		},
+		"imageURL": "https://andybitz.io/og.png",
+		"backgroundColor": "rgb(255,255,255)"
+	},
+	{
+		"title": "Ansub Khan",
+		"link": "https://ansubkhan.com/",
+		"category": "personal",
+		"dimensions": {
+			"height": 1080,
+			"width": 1920,
+			"type": "png"
+		},
+		"imageURL": "https://ansubkhan.com/opengraph-image.png?289c062fcf0b7277",
+		"backgroundColor": "rgb(255,255,255)"
+	},
+	{
+		"title": "Kevin Chin",
+		"link": "https://kevch.in/",
+		"category": "personal",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Kevin Chin&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)"
+	},
+	{
+		"title": "Morten",
+		"link": "https://morten.dev",
+		"category": "personal",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Morten&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)"
+	},
+	{
+		"title": "Anton",
+		"link": "https://antonz.org",
+		"category": "personal",
+		"dimensions": {
+			"height": 1024,
+			"width": 1024,
+			"type": "png"
+		},
+		"imageURL": "https://antonz.org/assets/logo.png",
+		"backgroundColor": "rgb(0,0,0)"
+	},
+	{
+		"title": "ui.land",
+		"link": "http://ui.land",
+		"category": "project",
+		"dimensions": {},
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=ui.land&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)"
+	},
+	{
+		"title": "Alasdair Monk",
+		"link": "https://www.alasdairmonk.com/",
+		"category": "personal",
+		"dimensions": {
+			"height": 627,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Alasdair Monk&fontSizeTwo=8&color=%23efefef",
+		"backgroundColor": "rgb(18,18,18)"
+	},
+	{
+		"title": "Wojtek Witkowski",
+		"link": "https://wojtek.im/",
+		"category": "personal",
+		"dimensions": {
+			"height": 628,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://wojtek.im/opengraph-image.png?c017644e10f568e2",
+		"backgroundColor": "rgb(0.1577639751552795,1.31055900621118,0.8608695652173913)"
+	},
+	{
+		"title": "Glenn Hitchcock",
+		"link": "https://glenn.me/",
+		"category": "personal",
+		"dimensions": {
+			"height": 630,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://framerusercontent.com/assets/zQMOZiED2zhUICygd2PL4Tghx8.png",
+		"backgroundColor": "rgb(255,255,255)"
+	},
+	{
+		"title": "Joe Bell",
+		"link": "https://joebell.studio",
+		"category": "personal",
+		"dimensions": {
+			"height": 628,
+			"width": 1200,
+			"type": "png"
+		},
+		"imageURL": "https://joebell.studio/og",
+		"backgroundColor": "rgb(254.6347687400319,254.76076555023923,254.8676236044657)"
+	},
+	{
+		"title": "Hugo Richard",
+		"link": "https://www.hrcd.fr",
+		"category": "personal",
+		"dimensions": {
+			"height": 882,
+			"width": 1680,
+			"type": "jpg"
+		},
+		"imageURL": "https://www.hrcd.fr/social-preview.jpg",
+		"backgroundColor": "rgb(4.678294573643411,4.51937984496124,4.7661498708010335)"
+	},
+	{
+		"title": "Bachitter",
+		"link": "https://bachitter.dev",
+		"category": "personal"
+	}
 ]
