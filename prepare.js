@@ -57,6 +57,7 @@ async function getLink(item) {
 
     item.dimensions = imageDimensions;
     item.imageURL = imageLink;
+    item.addedOn = item.addedOn ?? new Date().toISOString();
     item.backgroundColor = await getFallbackColor(imageLink);
     return item;
   } catch (err) {
