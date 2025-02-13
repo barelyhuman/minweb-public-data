@@ -12,7 +12,7 @@ To submit another website to the list, just add it at the end of the
 Fill in just the following fields, `imageURL` will be generated from your
 website or a fallback will be generated if it's unable to do so.
 
-```json
+```json5
 {
   "title": "Name",
   "link": "https://example.com/",
