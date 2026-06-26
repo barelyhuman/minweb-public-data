@@ -368,7 +368,7 @@
     "link": "https://craigmod.com/",
     "category": "personal",
     "imageURL": "https://craigmod.com/images/craigmod-homepage-image.jpg",
-    "backgroundColor": "rgb(102.93558282208589,93.25153374233129,76.80061349693251)",
+    "backgroundColor": "rgb(107.55890410958904,98.4986301369863,81.74520547945205)",
     "dimensions": {
       "height": 1067,
       "width": 1600,
@@ -396,8 +396,8 @@
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Brian Koberlein&fontSizeTwo=8&color=%23efefef",
     "backgroundColor": "rgb(18,18,18)",
     "dimensions": {
-      "height": 627,
       "width": 1200,
+      "height": 630,
       "type": "png"
     },
     "addedOn": "2024-01-14T11:35:45.000Z"
@@ -407,7 +407,7 @@
     "link": "https://ineedmore.coffee",
     "category": "blog",
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=I Need More Coffee (Sohal Sudheer)&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18.018255578093306,18.018255578093306,18.018255578093306)",
+    "backgroundColor": "rgb(18,18,18)",
     "dimensions": {
       "height": 627,
       "width": 1200,
@@ -484,11 +484,11 @@
     "title": "Steph Ango",
     "link": "https://stephango.com",
     "category": "blog",
-    "imageURL": "https://stephango.com/assets/card.png",
-    "backgroundColor": "rgb(35.89492753623188,41.619565217391305,28.820652173913043)",
+    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Steph Ango&fontSizeTwo=8&color=%23efefef",
+    "backgroundColor": "rgb(18,18,18)",
     "dimensions": {
-      "height": 600,
       "width": 1200,
+      "height": 630,
       "type": "png"
     },
     "addedOn": "2024-01-14T11:35:45.000Z"
@@ -1019,7 +1019,7 @@
     "link": "https://www.emmettshine.com",
     "category": "personal",
     "imageURL": "https://www.emmettshine.com/og.png",
-    "backgroundColor": "rgb(249.03044871794873,249.03044871794873,247.03044871794873)",
+    "backgroundColor": "rgb(248.14188034188035,248.14188034188035,246.15726495726497)",
     "dimensions": {
       "height": 482,
       "width": 1128,
@@ -1227,12 +1227,12 @@
     "link": "https://darn.es",
     "category": "personal",
     "dimensions": {
-      "width": 1200,
-      "height": 630,
-      "type": "png"
+      "height": 360,
+      "width": 360,
+      "type": "jpg"
     },
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=David Darnes&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
+    "imageURL": "https://storage.ghost.io/c/85/16/85160c26-452d-4b36-87f4-e004becb4f04/content/images/2022/02/dave-penfold.jpg",
+    "backgroundColor": "rgb(211.92194092827003,200.35443037974684,198.26160337552741)",
     "addedOn": "2024-04-02T07:12:19.000Z"
   },
   {
@@ -1480,7 +1480,7 @@
     },
     "imageURL": "https://framerusercontent.com/assets/34OMVICmSaFZkWIqNibeSoG010.png",
     "addedOn": "2024-09-26T09:27:36.889Z",
-    "backgroundColor": "rgb(254.88170731707316,254.88170731707316,254.88170731707316)"
+    "backgroundColor": "rgb(254.8249694002448,254.8249694002448,254.8249694002448)"
   },
   {
     "title": "Ephraim Duncan",
