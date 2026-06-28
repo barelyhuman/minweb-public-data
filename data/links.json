@@ -292,8 +292,8 @@
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Mellow&fontSizeTwo=8&color=%23efefef",
     "backgroundColor": "rgb(18,18,18)",
     "dimensions": {
+      "height": 627,
       "width": 1200,
-      "height": 630,
       "type": "png"
     },
     "addedOn": "2024-01-14T11:35:45.000Z"
@@ -368,7 +368,7 @@
     "link": "https://craigmod.com/",
     "category": "personal",
     "imageURL": "https://craigmod.com/images/craigmod-homepage-image.jpg",
-    "backgroundColor": "rgb(96.61656441717791,87.51533742331289,71.16257668711657)",
+    "backgroundColor": "rgb(98.60818713450293,89.04970760233918,71.72514619883042)",
     "dimensions": {
       "height": 1067,
       "width": 1600,
@@ -407,7 +407,7 @@
     "link": "https://ineedmore.coffee",
     "category": "blog",
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=I Need More Coffee (Sohal Sudheer)&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18.001023541453428,18.001023541453428,18.001023541453428)",
+    "backgroundColor": "rgb(18,18,18)",
     "dimensions": {
       "height": 627,
       "width": 1200,
@@ -485,7 +485,7 @@
     "link": "https://stephango.com",
     "category": "blog",
     "imageURL": "https://stephango.com/assets/card.png",
-    "backgroundColor": "rgb(34.24343257443082,38.74605954465849,26.430823117338004)",
+    "backgroundColor": "rgb(35.37137330754352,40.889748549323016,28.04255319148936)",
     "dimensions": {
       "height": 600,
       "width": 1200,
@@ -603,7 +603,7 @@
     "link": "https://commaok.xyz",
     "category": "personal",
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Josh Bleecher Snyder&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18.0020202020202,18.0020202020202,18.0020202020202)",
+    "backgroundColor": "rgb(18,18,18)",
     "dimensions": {
       "height": 627,
       "width": 1200,
@@ -1019,7 +1019,7 @@
     "link": "https://www.emmettshine.com",
     "category": "personal",
     "imageURL": "https://www.emmettshine.com/og.png",
-    "backgroundColor": "rgb(248.0582191780822,248.0582191780822,246.07876712328766)",
+    "backgroundColor": "rgb(248.09760273972603,248.09760273972603,246.11301369863014)",
     "dimensions": {
       "height": 482,
       "width": 1128,
@@ -1227,12 +1227,12 @@
     "link": "https://darn.es",
     "category": "personal",
     "dimensions": {
-      "width": 1200,
-      "height": 630,
-      "type": "png"
+      "height": 360,
+      "width": 360,
+      "type": "jpg"
     },
-    "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=David Darnes&fontSizeTwo=8&color=%23efefef",
-    "backgroundColor": "rgb(18,18,18)",
+    "imageURL": "https://storage.ghost.io/c/85/16/85160c26-452d-4b36-87f4-e004becb4f04/content/images/2022/02/dave-penfold.jpg",
+    "backgroundColor": "rgb(216.5887323943662,206.86478873239437,205.01408450704224)",
     "addedOn": "2024-04-02T07:12:19.000Z"
   },
   {
@@ -1292,8 +1292,8 @@
     "link": "https://robinrendle.com/",
     "category": "personal",
     "dimensions": {
-      "height": 627,
       "width": 1200,
+      "height": 630,
       "type": "png"
     },
     "imageURL": "https://og.barelyhuman.xyz/generate?fontSize=14&backgroundColor=%23121212&title=Robin Rendle&fontSizeTwo=8&color=%23efefef",
@@ -1480,7 +1480,7 @@
     },
     "imageURL": "https://framerusercontent.com/assets/34OMVICmSaFZkWIqNibeSoG010.png",
     "addedOn": "2024-09-26T09:27:36.889Z",
-    "backgroundColor": "rgb(254.8021582733813,254.8021582733813,254.8021582733813)"
+    "backgroundColor": "rgb(254.67688679245282,254.67688679245282,254.67570754716982)"
   },
   {
     "title": "Ephraim Duncan",
